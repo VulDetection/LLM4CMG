@@ -1,6 +1,4 @@
 # LLM4CMG
-wiil add
-
 
 # Silence of Commit Messages: An Empirical Study for Vulnerability Commit Message Generation Using Large Language Models
 
