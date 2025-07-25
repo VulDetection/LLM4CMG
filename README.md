@@ -4,6 +4,8 @@
 
 <img width="597" height="99" alt="image" src="https://github.com/user-attachments/assets/7fd76b77-fdfa-484c-9688-cf952235a419" />
 
+# Please note that if you need to replace the model, you only need to change the type of model in each .py file.
+
 
 # Commit Message Construction (RQ1)
 
